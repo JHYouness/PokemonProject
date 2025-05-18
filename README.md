@@ -1,4 +1,5 @@
 # PokemonProject
+```bash
 
 entregable_proyecto_videojuegos.zip
 │
@@ -16,3 +17,4 @@ entregable_proyecto_videojuegos.zip
 │
 └── documentacion/
     └── guia_implementacion.md      # Explicación técnica y demo
+```
